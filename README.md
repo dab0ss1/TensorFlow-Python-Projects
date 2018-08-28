@@ -1,2 +1,2 @@
 # TensorFlow-Python-Projects
-Google TensorFlow Projects in Python
+TensorFlow/Sklearn Projects in Python
